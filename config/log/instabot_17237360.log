@@ -1,0 +1,9 @@
+2020-02-16 23:54:52,672 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-16 23:54:52,673 - instabot version: 0.107.0 (api_login) - INFO - PRE-LOGIN FLOW!... 
+2020-02-16 23:55:06,389 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'Brinsby'!
+2020-02-16 23:55:06,389 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-16 23:55:34,817 - instabot version: 0.107.0 (bot_like) - INFO - Liking timeline feed:
+2020-02-16 23:55:36,444 - instabot version: 0.107.0 (bot_filter) - INFO - Received 7 medias.
+2020-02-16 23:55:36,445 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-16 23:55:36,445 - instabot version: 0.107.0 (bot_like) - INFO - Nothing to like.
+2020-02-16 23:55:36,447 - instabot version: 0.107.0 (bot) - INFO - Total requests: 22

@@ -1,0 +1,10 @@
+2020-02-17 00:05:29,066 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-17 00:05:29,072 - instabot version: 0.107.0 (api_login) - INFO - Recovery from C:\Users\J\PycharmProjects\STBCLiker/config/Brinsby_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=33008912-0187-4b06-8ae4-db6807ca7d48
+- uuid=85c1e528-1f54-4b77-b3b1-b3eb0295abe6
+- client_session_id=16820a29-5b9b-4fc7-baa0-6fd316d0049e
+- device_id=android-f61997adc85a0533
+2020-02-17 00:05:29,073 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-17 00:05:33,437 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'Brinsby'!
+2020-02-17 00:05:45,230 - instabot version: 0.107.0 (bot) - INFO - Total requests: 26
