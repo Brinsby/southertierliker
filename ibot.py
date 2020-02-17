@@ -17,19 +17,3 @@ bot = Bot()
 bot.login(username="USER", password="pass")
 
 bot.like_user("stbcbeer")
-#print(bot.get_user_id_from_username("notsobaldi"))
-
-# like media by a single user_id
-#bot.like_user("352300017")
-
-# likes all media from timeline
-#bot.like_timeline()
-
-# likes all media from timeline
-#bot.like_medias(bot.get_timeline_medias())
-
-# likes media by hashtag(s)
-#tags = ["l4l", "selfie"]
-
-#for t in tags:
-#    bot.like_hashtag(t)
